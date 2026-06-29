@@ -79,5 +79,5 @@ Battery Cells → ESP32 → Relay / Buzzer / LCD → Blynk Cloud
 ## Author
 
 Harsh Patel
-
+   
 Embedded Systems | AIoT | Robotics
